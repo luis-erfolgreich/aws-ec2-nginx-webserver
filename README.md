@@ -53,6 +53,7 @@ Servidor web rodando publicamente na AWS utilizando NGINX.
 
 ---
 
-## Evidências
+## Aplicação rodando na AWS
 
+![AWS EC2 NGINX](./aws-ec2-nginx.png)
 
