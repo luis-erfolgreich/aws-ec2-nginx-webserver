@@ -1,8 +1,8 @@
-# 🚀 AWS EC2 NGINX Web Server
+# AWS EC2 NGINX Web Server
 
 Projeto de hospedagem web utilizando Amazon EC2 e NGINX.
 
-## 📌 Sobre o projeto
+## Sobre o projeto
 
 Neste projeto foi criada uma instância EC2 utilizando Amazon Linux 2023 para hospedar uma página HTML com NGINX.
 
